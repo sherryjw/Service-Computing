@@ -1,0 +1,25 @@
+body {
+	align-items: center;
+	justify-content: center;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: 600;
+	text-align: center;
+	color: #385f9e;
+	margin-bottom: 40px;
+}
+
+.mainContainer {
+	margin: 180px auto;
+	width: 350px;
+}
+
+.button {
+	margin: 10px 138px !important;
+}
+
+.info {
+	margin: 5px 50px;
+}
